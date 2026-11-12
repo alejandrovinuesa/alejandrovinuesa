@@ -17,4 +17,4 @@ I build tools that combine **operations research, data analytics and agentic AI*
 ### Toolbox
 Python · Julia/JuMP · optimization modelling · Plotly/Streamlit · Git & GitHub Actions · LLM agents (Claude, MCP) · Excel
 
-📫 [LinkedIn][(https://www.linkedin.com/in/REPLACE-ME)](https://www.linkedin.com/in/alejandrovinuesacano/)
+📫 [LinkedIn][(https://www.linkedin.com/in/REPLACE-ME)]([https://www.linkedin.com/in/alejandrovinuesacano/]
